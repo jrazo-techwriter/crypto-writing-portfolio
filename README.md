@@ -2,41 +2,33 @@
 Crypto &amp; Web3 journalism, trend analysis, and research content
 # Joseph A. Razo – Crypto & Web3 Writer | Blockchain Journalist
 
-📰 I craft accessible, research-driven crypto content that bridges the gap between technical concepts and real-world narratives. This portfolio showcases selected work in journalism, trend analysis, and educational writing across DeFi, stablecoins, regulation, and tokenized assets.
+📰 I write sharp, research-backed stories that break down crypto trends, stablecoins, and financial disruption for readers across all levels. My work focuses on where blockchain meets regulation, legacy finance, and the future of digital assets.
 
 ---
 
 ## 🔹 Featured Articles
 
-**Stablecoins: The New Rails of Digital Finance**  
-🔗 [Read on Medium](https://medium.com/@j.razo7869/stablecoins-the-new-financial-rails)  
-Explores stablecoin adoption, risks, and future impact on traditional banking.
+**[Circle's Big Strategic Move to Wall Street](https://medium.com/@j.razo7869/circles-big-strategic-move-to-wallstreet-8cb3aeb19146)**  
+*How Circle’s IPO and institutional push may reshape the stablecoin landscape*
 
-**CBDCs vs Privacy: What’s at Stake**  
-🔗 [Read on Medium](https://medium.com/@j.razo7869/cbdcs-vs-privacy-whats-at-stake)  
-Dissects the privacy concerns surrounding central bank digital currencies in the U.S.
+**[Fidelity vs. BlackRock: Are We Witnessing the Start of the Tokenization Wars?](https://medium.com/@j.razo7869/fidelity-vs-blackrock-are-we-witnessing-the-start-of-the-tokenization-wars-e7e3600388fd)**  
+*An inside look at how Wall Street giants are quietly racing to tokenize finance*
 
-**Tokenized Real-World Assets: A Digital Revolution**  
-📄 [PDF available upon request]  
-Whitepaper-style breakdown of RWA protocols and how they're transforming capital markets.
+**[ETHDenver 2025: A Celebration of Innovation with Growing Pains](https://medium.com/@j.razo7869/ethdenver-2025-a-celebration-of-innovation-with-growing-pains-f207d50053da)**  
+*A candid report from the front lines of the biggest Ethereum event of the year*
 
----
-
-## 🔹 Research & Analysis Topics
-
-- 🪙 **Stablecoins & CBDCs**  
-- 📊 **RWA Tokenization**  
-- 🧠 **AI & Blockchain Intersection**  
-- 🌐 **Web3 Inclusion and Financial Literacy**  
-- 🛡 **Crypto Regulation & Risk Management**
+**[The White House Crypto Summit: A Pivotal Shift or Just “Digital Magic”?](https://medium.com/@j.razo7869/the-white-house-crypto-summit-a-pivotal-shift-or-just-digital-magic-28f06d675f05)**  
+*Policy meets PR in the Biden administration’s first major blockchain summit*
 
 ---
 
-## 🛠 Skills & Tools
+## 🛠 Topics I Write About
 
-- SEO Writing • Narrative Journalism • Thought Leadership  
-- Crypto Market Analysis • Trend Research • Longform Explainers  
-- Web3 Topics: DeFi, Tokenomics, Stablecoins, RWA, dApps
+- Stablecoins & CBDCs  
+- Real-World Asset Tokenization (RWA)  
+- Crypto Regulation & Institutional Adoption  
+- Event Coverage & Industry Analysis  
+- Web3 Inclusion & Public Policy
 
 ---
 
@@ -46,5 +38,5 @@ Whitepaper-style breakdown of RWA protocols and how they're transforming capital
 - 🔗 [LinkedIn – jrazo-techwriter](https://linkedin.com/in/jrazo-techwriter)  
 - 📰 [Medium – @j.razo7869](https://medium.com/@j.razo7869)
 
-> “I write about the future of finance in a way your neighbor can understand — and your VC can fund.”
+> “I don’t just write about Web3 — I translate it for the people who’ll shape what’s next.”
 
