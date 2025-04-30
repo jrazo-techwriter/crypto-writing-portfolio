@@ -35,8 +35,7 @@ Crypto &amp; Web3 journalism, trend analysis, and research content
 ## 📫 Contact
 
 - ✉️ j.razo7869@gmail.com  
-- 🔗 [LinkedIn – jrazo-techwriter](https://linkedin.com/in/jrazo-techwriter)  
+- 🔗 [LinkedIn – Joseph A. Razo](https://www.linkedin.com/in/joseph-a-razo-b560bb281)  
 - 📰 [Medium – @j.razo7869](https://medium.com/@j.razo7869)
 
 > “I don’t just write about Web3 — I translate it for the people who’ll shape what’s next.”
-
